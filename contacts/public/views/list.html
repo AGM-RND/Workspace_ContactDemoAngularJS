@@ -1,0 +1,20 @@
+<p><input type="search" class="form-control" placeholder="Search" ng-model="query" /></p>
+
+<table class="table table-bordered table-striped">
+	<thead>
+		<tr>
+			<th ng-repeat="field in fields" ng-click="sort(field)" style="cursor: pointer;">
+				{{ field | labelCase}}
+				<span ng-show="sort.field == field && !sort.order" class="glyphicon glyphicon-chevron-down"></span>
+				<span ng-show="sort.field == field && sort.order" class="glyphicon glyphicon-chevron-up"></span>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr ng-click="show(contact.id)" ng-repeat="contact in contacts | filter: query | orderBy: sort.field: sort.order" style="cursor: pointer;">
+			<td ng-repeat="field in fields">
+				{{ contact[field][0] }}
+			</td>
+		</tr>
+	</tbody>
+</table>

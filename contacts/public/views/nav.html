@@ -1,0 +1,29 @@
+<nav class="navbar navbar-inverse">
+	<div class="container-fluid">
+		<ul class="nav navbar-nav">
+			<li ng-class="{ active: PAGE === 'all' }"><a href="contacts">
+					All Contacts</a></li>
+			<li ng-class="{ active: PAGE === 'new' }"><a href="contact/new">
+					New Contact</a></li>
+			<li ng-show="PAGE === 'single'" class="active"><a
+				href="contact/new"> Edit Contact</a></li>
+			<li ng-class="{ active: PAGE === 'products' }"><a
+				href="products/welcome"> Products</a></li>
+			<li>
+				<form ng-enter="CommonCode.redirect('/products/{{CommonCode.term}}/0/10')" class="navbar-form navbar-left" role="search" ng-controller="TestNavController">
+					<div class="form-group">
+						<input type="text" class="form-control"
+							placeholder="Search Products" ng-model="CommonCode.term" style="width:400px;"/>
+					</div>
+					<a  class="btn btn-danger" href="#" ng-click="CommonCode.redirect('/products/'+CommonCode.term+'/0/10')">Search</a>
+				</form>
+			</li>
+		</ul>
+		<ul class="nav navbar-nav navbar-right">
+			<li ng-class="{ active: PAGE === 'settings' }"><a
+				href="/settings"> <span class="glyphicon glyphicon-cog">Settings</span>
+			</a>
+			<li><a href="/logout" target="_self">Log Out</a></li>
+		</ul>
+	</div>
+</nav>

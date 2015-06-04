@@ -1,0 +1,301 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1431370776793
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431370777343
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431370778592
+error,log,,,"error during type inferencing",1431370778786
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431370809537
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1431370811692
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.refresh",1431370814392
+opened,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431370816004
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431370816042
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431370818747
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431370879227
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431370879283
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431370880575
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431370882243
+closed,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431370882243
+error,log,,,"error during type inferencing",1431370883571
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1431370897141
+activated,editor,org.eclipse.wst.html.ui,1.0.602.v201202091936,"org.eclipse.wst.html.core.htmlsource.source",1431370897337
+error,log,,,"Unhandled event loop exception",1431370903012
+error,log,,,"Unhandled event loop exception",1431370928395
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1431370949698
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431370952759
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431371026457
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1431371033720
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431371037914
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431371146670
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431371169118
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431371172269
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431371172457
+error,log,,,"error during type inferencing",1431371172846
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431371176132
+error,log,,,"error during type inferencing",1431371177168
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431371204023
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431371904355
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431371908266
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431371925905
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431371940019
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431371941718
+error,log,,,"error during type inferencing",1431371946115
+error,log,,,"error during type inferencing",1431371951838
+error,log,,,"error during type inferencing",1431371953509
+error,log,,,"error during type inferencing",1431371959401
+error,log,,,"error during type inferencing",1431371962095
+error,log,,,"error during type inferencing",1431371964743
+error,log,,,"error during type inferencing",1431371968395
+error,log,,,"error during type inferencing",1431371971024
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431371972579
+error,log,,,"error during type inferencing",1431371972708
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431371974706
+error,log,,,"error during type inferencing",1431371975986
+error,log,,,"error during type inferencing",1431371980256
+error,log,,,"error during type inferencing",1431371985728
+error,log,,,"error during type inferencing",1431371990950
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431371994847
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431371996193
+error,log,,,"error during type inferencing",1431371999641
+error,log,,,"error during type inferencing",1431372004296
+error,log,,,"error during type inferencing",1431372011932
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431372036626
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431372055427
+error,log,,,"error during type inferencing",1431372062376
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1431372067666
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1431372068924
+error,log,,,"error during type inferencing",1431372069555
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431372086490
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431372089071
+error,log,,,"error during type inferencing",1431372095120
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1431372098090
+error,log,,,"error during type inferencing",1431372099423
+error,log,,,"error during type inferencing",1431372113750
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431372115040
+error,log,,,"error during type inferencing",1431372115639
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431372122642
+error,log,,,"error during type inferencing",1431372123843
+error,log,,,"error during type inferencing",1431372131649
+error,log,,,"error during type inferencing",1431372133313
+error,log,,,"error during type inferencing",1431372138526
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431372138650
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431372140756
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431372146010
+error,log,,,"error during type inferencing",1431372146510
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431372146918
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.text.contentAssist.proposals",1431372150906
+error,log,,,"error during type inferencing",1431372151450
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.text.contentAssist.proposals",1431372155427
+error,log,,,"error during type inferencing",1431372155665
+error,log,,,"error during type inferencing",1431372159829
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1431372169281
+error,log,,,"error during type inferencing",1431372170579
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431372186891
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431372191979
+error,log,,,"error during type inferencing",1431372197099
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431372202910
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431372204589
+error,log,,,"error during type inferencing",1431372206789
+error,log,,,"error during type inferencing",1431372213424
+error,log,,,"error during type inferencing",1431372216310
+error,log,,,"error during type inferencing",1431372219452
+error,log,,,"error during type inferencing",1431372221559
+error,log,,,"error during type inferencing",1431372227723
+error,log,,,"error during type inferencing",1431372231863
+error,log,,,"error during type inferencing",1431372234005
+error,log,,,"error during type inferencing",1431372246237
+error,log,,,"error during type inferencing",1431372253049
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431372254477
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431372272819
+error,log,,,"error during type inferencing",1431372276338
+error,log,,,"error during type inferencing",1431372278516
+error,log,,,"error during type inferencing",1431372282670
+error,log,,,"error during type inferencing",1431372290020
+error,log,,,"error during type inferencing",1431372300206
+error,log,,,"error during type inferencing",1431372300728
+error,log,,,"error during type inferencing",1431372302371
+error,log,,,"error during type inferencing",1431372308670
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1431372308824
+error,log,,,"error during type inferencing",1431372310351
+error,log,,,"error during type inferencing",1431372314009
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1431372315862
+error,log,,,"error during type inferencing",1431372317154
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431372318048
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431372326745
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,"org.eclipse.ui.edit.text.delete.line",1431372327983
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1431372328453
+error,log,,,"error during type inferencing",1431372329981
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431372332683
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431372339233
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1431372339270
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431372339453
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431372340465
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431372342875
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431372435066
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431372436371
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431372453734
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431372469693
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431372499449
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431372501039
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.text.contentAssist.proposals",1431372502705
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431372524124
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431372529842
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.text.contentAssist.proposals",1431372570649
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431372597257
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431372599575
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431372610649
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431372611862
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.text.contentAssist.proposals",1431372619099
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431372670538
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431372676469
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.cut",1431372685597
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,"org.eclipse.ui.edit.text.delete.line",1431372685770
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1431372687871
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431372701433
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431372702880
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431372725613
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431372731293
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431372742785
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431372745591
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431372767058
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431372869085
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1431372890008
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431372891867
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431372894193
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1431372896149
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431372956531
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431373062851
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1431373062889
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431373063338
+error,log,,,"error during type inferencing",1431373063758
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431373092621
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431373217106
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431373219353
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431373230262
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431373234016
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1431373261547
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431373263356
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431373398315
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.text.contentAssist.proposals",1431373420683
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.text.contentAssist.proposals",1431373422233
+error,log,,,"An internal error occurred during: ""Requesting JavaScript AST from selection"".",1431373425129
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431373425146
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431373427506
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.text.contentAssist.proposals",1431373429065
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.text.contentAssist.proposals",1431373435204
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431373440189
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431373440402
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1431373441852
+error,log,,,"An internal error occurred during: ""Requesting JavaScript AST from selection"".",1431373442871
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431373442913
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431373444532
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431373445063
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431373462771
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431373462907
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431373495440
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431373497613
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431373507655
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431373509278
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1431373526369
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431373527801
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431373532595
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1431373532625
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431373535072
+error,log,,,"error loading class class for org.eclipse.wst.html.HTML_DEFAULT",1431373541874
+error,log,,,"error loading class class for org.eclipse.wst.html.HTML_DECLARATION",1431373541876
+opened,editor,org.eclipse.wst.html.ui,1.0.602.v201202091936,"org.eclipse.wst.html.core.htmlsource.source",1431373541904
+activated,editor,org.eclipse.wst.html.ui,1.0.602.v201202091936,"org.eclipse.wst.html.core.htmlsource.source",1431373541931
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431373541987
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431373543211
+error,log,,,"Plug-in org.eclipse.angularjs.ui was unable to load class org.eclipse.angularjs.internal.ui.validation.HTMLAngularSourceValidator.",1431373543403
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431373544253
+error,log,,,"Unhandled event loop exception",1431373546687
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431373568603
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431373569817
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.text.contentAssist.proposals",1431373592599
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.text.contentAssist.proposals",1431373594078
+error,log,,,"Unhandled event loop exception",1431373613824
+error,log,,,"Unhandled event loop exception",1431373619872
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431373624086
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431373626413
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431373659946
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431373662228
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.text.contentAssist.proposals",1431373685570
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431373713719
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431373717097
+error,log,,,"error during type inferencing",1431373718123
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431373724995
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431373728631
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1431373734355
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431373736893
+error,log,,,"error during type inferencing",1431373738228
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431373744398
+error,log,,,"error during type inferencing",1431373745039
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431373746505
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431373803215
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431376703757
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1431376709435
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431376710994
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431376719810
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431376720839
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431376761449
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431376762909
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431376763093
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431376764090
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431376908613
+activated,editor,org.eclipse.wst.html.ui,1.0.602.v201202091936,"org.eclipse.wst.html.core.htmlsource.source",1431376909313
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431376951872
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431376953941
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431376995495
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431376996894
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1431377006523
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431377041851
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431377046668
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431377047051
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431377056274
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431377081705
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431377083599
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1431377085419
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431377115973
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431377118926
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431377119026
+activated,editor,org.eclipse.wst.html.ui,1.0.602.v201202091936,"org.eclipse.wst.html.core.htmlsource.source",1431377161291
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431377164878
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431377196095
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431377202415
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431377208816
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431377210873
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1431377210877
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.text.contentAssist.proposals",1431377225732
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.text.contentAssist.proposals",1431377232471
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.text.contentAssist.proposals",1431377235209
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.text.contentAssist.proposals",1431377243288
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431377260123
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431377265610
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431377270572
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431377271942
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1431377283420
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431377285103
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431377298120
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1431377302905
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431377303470
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431377307869
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431377307947
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431377332278
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431377380831
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431377407827
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431377413313
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1431377486030
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431377489793
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431377496635
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431377514297
+error,log,,,"error during type inferencing",1431377515077
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431377522204
+activated,editor,org.eclipse.wst.html.ui,1.0.602.v201202091936,"org.eclipse.wst.html.core.htmlsource.source",1431377525004
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431377525783
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431377533911
+error,log,,,"error during type inferencing",1431377534320
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431377547898
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431377627495
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431377705757
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431377705902
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.text.contentAssist.proposals",1431377713880
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1431377747880

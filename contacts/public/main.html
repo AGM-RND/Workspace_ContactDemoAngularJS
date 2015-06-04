@@ -1,0 +1,58 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html ng-app="ContactsApp" ng-controller="mainController">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Contacts</title>
+<base href="/">
+<link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css" />
+<!-- <link rel="stylesheet" href="src/bootstrap.min.css" /> -->
+<link ng-href='https://bootswatch.com/{{ css }}/bootstrap.min.css'
+	rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="lib/angular-grid/ng-grid.min.css" />
+<link href='http://fonts.googleapis.com/css?family=Chivo'
+	rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="gridStyle.css" />
+<link rel="stylesheet" href="views/css/animations.css" />
+</head>
+<body style="font-family: 'Chivo', sans-serif;">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-12" style="height: 10%">
+				<img class="img-rounded" src="images/RakutenSmall.png" height="50px" />
+				<div class="btn-group pull-right">
+					<a href="#" class="btn btn-default">Theme: {{ cssName }}</a> <a href="#"
+						class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
+						&nbsp;<span class="caret"></span>
+					</a>
+					<ul class="dropdown-menu">
+						<li data-ng-repeat="bootstrap in bootstraps"
+							ng-click="setTheme(bootstrap)"><a href="#">{{bootstrap.name}}</a></li>
+					</ul>
+				</div>
+				<h2 class="pull-right" style="margin:5px">
+					Search products <small>the way you want</small>
+				</h2>
+			</div>
+		</div>
+		<div class="row">
+			<div class=col-sm-12 " ng-include="'views/nav.html'"></div>
+		</div>
+		<div class="row">
+			<div class="col-sm-12" ng-view></div>
+		</div>
+	</div>
+	<script src="lib/jquery/dist/jquery.min.js"></script>
+	<script src="lib/bootstrap/dist/js/bootstrap.js"></script>
+	<script src="lib/angular/angular.min.js"></script>
+	<script src="lib/angular-route/angular-route.min.js"></script>
+	<script src="lib/angular-resource/angular-resource.min.js"></script>
+	<script src="lib/angular-messages/angular-messages.min.js"></script>
+	<script src="lib/angular-grid/build/ng-grid.min.js"></script>
+	<script src="lib/angular-animate/angular-animate.min.js"></script>
+	<script src="src/app.js"></script>
+	<script src="src/controllers.js"></script>
+	<script src="src/factories.js"></script>
+	<script src="src/filters.js"></script>
+	<script src="src/directives.js"></script>
+</body>
+</html>

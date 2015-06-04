@@ -1,0 +1,96 @@
+<div ng-switch on="dataLoading">
+	<div ng-switch-when="true">
+		Loading...
+		<div class="progress progress-striped active">
+			<div class="progress-bar" style="width: 45%"></div>
+		</div>
+	</div>
+	<div ng-switch-default>
+		<div ng-switch="totalRecords==0">
+			<div ng-switch-when="true"
+				class="alert alert-dismissible alert-danger">
+				<button type="button" class="close" data-dismiss="alert">&times;</button>
+				<strong>Oops!!! No results found for '{{::CommonCode.term}}'</strong>
+			</div>
+			<div ng-switch-default>
+				<p>
+					<input type="search" class="form-control"
+						placeholder="Filter results" ng-model="query" />
+				</p>
+
+				<div class="row">
+					<div class="col-xs-12 col-md-8">
+						<ul class="pagination" style="margin: 2px 0;">
+							<li ng-class="{'disabled' : currentPage <= 1}">
+								<a ng-if="currentPage<=1" href="#" aria-label="First">
+									<span aria-hidden="true">First</span>
+								</a>
+								<a ng-if="currentPage>1" href="/products/{{::CommonCode.term}}/0/10" aria-label="First">
+									<span aria-hidden="true">First</span>
+								</a>
+							</li>
+							<li ng-class="{'disabled' : currentPage <= 1}">
+								<a ng-if="currentPage<=1" href="#" aria-label="Previous">
+									<span aria-hidden="true">&laquo;</span>
+								</a>
+								<a ng-if="currentPage>1" href="/products/{{::CommonCode.term}}/{{::((currentPage)-2)*10}}/10" aria-label="Previous">
+									<span aria-hidden="true">&laquo;</span>
+								</a>
+							</li>
+							<li data-ng-repeat="i in CommonCode.range(startPage, endPage)" ng-class="{'active' : currentPage == i}">
+								<a href="/products/{{::CommonCode.term}}/{{(i-1)*10}}/10">{{i}}</a>
+							</li>
+							<li ng-class="{'disabled' : currentPage >= totalPages}">
+								<a ng-if="currentPage >= totalPages" href="#" aria-label="Next">
+									<span aria-hidden="true">&raquo;</span>
+								</a>
+								<a ng-if="currentPage < totalPages" href="/products/{{::CommonCode.term}}/{{::(currentPage)*10}}/10" aria-label="Next">
+									<span aria-hidden="true">&raquo;</span>
+								</a>
+							</li>
+							<li ng-class="{'disabled' : currentPage >= totalPages}">
+								<a ng-if="currentPage >= totalPages" href="#" aria-label="Next">
+									<span aria-hidden="true">Last</span>
+								</a>
+								<a ng-if="currentPage < totalPages" href="/products/{{::CommonCode.term}}/{{::(totalPages-1)*10}}/10" aria-label="Last">
+									<span aria-hidden="true">Last</span>
+								</a>
+							</li>
+						</ul>
+					</div>
+					<div class="col-xs-6 col-md-4" style="font-size: 18px">
+						<div class="pull-right">
+							<span class="label label-primary">Seconds <span	class="badge progress-bar-danger">{{::secondsTook}}</span></span>
+							<span class="label label-primary">Results <span class="badge progress-bar-warning">{{::totalRecords}}</span></span>
+						</div>
+					</div>
+				</div>
+				<table class="table table-bordered table-striped">
+					<thead>
+						<tr class="success">
+							<th ng-repeat="field in fields" ng-click="sort(field)"
+								style="cursor: pointer;">{{ ::field | firstLetter}} <span
+								ng-show="sort.field == field && !sort.order"
+								class="glyphicon glyphicon-chevron-down"></span> <span
+								ng-show="sort.field == field && sort.order"
+								class="glyphicon glyphicon-chevron-up"></span>
+							</th>
+							<th>Details</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr
+							ng-repeat="product in products | filter: query | orderBy: sort.field: sort.order"
+							style="cursor: pointer;" class="product-listing">
+							<td ng-repeat="field in fields"><span
+								ng-if="field == 'iconUrl'"><img width="50px"
+									height="50px" ng-src="{{ ::product[field] }}" /></span> <span
+								ng-if="field != 'iconUrl'">{{ ::product[field] }}</span></td>
+							<td><a class="btn btn-primary" href="#" ng-click="">Details</a></td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+		</div>
+	</div>
+</div>

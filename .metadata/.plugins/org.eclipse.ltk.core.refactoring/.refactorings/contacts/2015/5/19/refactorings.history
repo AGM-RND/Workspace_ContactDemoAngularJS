@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;contacts/public/src/controller.js&apos; to &apos;controllers.js&apos;" description="Rename resource &apos;controller.js&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="public/src/controller.js" name="controllers.js" stamp="1431144877077" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;contacts/public/src/filter.js&apos; to &apos;filters.js&apos;" description="Rename resource &apos;filter.js&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="public/src/filter.js" name="filters.js" stamp="1431150491809" updateReferences="true"/>
+</session>

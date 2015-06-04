@@ -1,0 +1,276 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431489303149
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431489305059
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431489359199
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431489411697
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431489417277
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431489417422
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431489419577
+activated,editor,org.eclipse.wst.html.ui,1.0.602.v201202091936,"org.eclipse.wst.html.core.htmlsource.source",1431489419690
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.cut",1431489421907
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1431489423289
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431489424567
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431489894444
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431489896790
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431489903866
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431489906814
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431494264593
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431494272419
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431494292135
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1431494298314
+activated,editor,org.eclipse.wst.html.ui,1.0.602.v201202091936,"org.eclipse.wst.html.core.htmlsource.source",1431494298513
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1431494323470
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1431494326692
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431494329097
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431494360043
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.cut",1431494370396
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1431494378962
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1431494379505
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431494381759
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431494400307
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431494401449
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431494412278
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431494423901
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1431494426808
+error,log,,,"error loading class class for org.eclipse.wst.html.HTML_DEFAULT",1431494427130
+error,log,,,"error loading class class for org.eclipse.wst.html.HTML_DECLARATION",1431494427133
+opened,editor,org.eclipse.wst.html.ui,1.0.602.v201202091936,"org.eclipse.wst.html.core.htmlsource.source",1431494427225
+activated,editor,org.eclipse.wst.html.ui,1.0.602.v201202091936,"org.eclipse.wst.html.core.htmlsource.source",1431494427270
+error,log,,,"Plug-in org.eclipse.angularjs.ui was unable to load class org.eclipse.angularjs.internal.ui.validation.HTMLAngularSourceValidator.",1431494428730
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1431494435920
+error,log,,,"error loading class class for org.eclipse.wst.html.HTML_DEFAULT",1431494436101
+error,log,,,"error loading class class for org.eclipse.wst.html.HTML_DECLARATION",1431494436104
+opened,editor,org.eclipse.wst.html.ui,1.0.602.v201202091936,"org.eclipse.wst.html.core.htmlsource.source",1431494436129
+activated,editor,org.eclipse.wst.html.ui,1.0.602.v201202091936,"org.eclipse.wst.html.core.htmlsource.source",1431494436167
+error,log,,,"Plug-in org.eclipse.angularjs.ui was unable to load class org.eclipse.angularjs.internal.ui.validation.HTMLAngularSourceValidator.",1431494437621
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1431494444142
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1431494445948
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431494448853
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431494472049
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1431494484804
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431494488316
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431494572890
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.cut",1431494581177
+error,log,,,"Unhandled event loop exception",1431494585139
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1431494588416
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1431494590162
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1431494592875
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1431494603934
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431494605280
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431494617997
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1431494623119
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1431494632688
+activated,editor,org.eclipse.wst.html.ui,1.0.602.v201202091936,"org.eclipse.wst.html.core.htmlsource.source",1431494637913
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1431494658385
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.cut",1431494668214
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1431494674643
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1431494677173
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1431494677347
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1431494678250
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431494679891
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431494711686
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431494714414
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431494900037
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431494905413
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431494910056
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1431494920853
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1431494923303
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1431494932544
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1431494952821
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1431494955349
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431494959802
+error,log,,,"error loading class class for org.eclipse.wst.html.HTML_DEFAULT",1431494965398
+error,log,,,"error loading class class for org.eclipse.wst.html.HTML_DECLARATION",1431494965401
+opened,editor,org.eclipse.wst.html.ui,1.0.602.v201202091936,"org.eclipse.wst.html.core.htmlsource.source",1431494965423
+activated,editor,org.eclipse.wst.html.ui,1.0.602.v201202091936,"org.eclipse.wst.html.core.htmlsource.source",1431494965451
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431494965506
+error,log,,,"Plug-in org.eclipse.angularjs.ui was unable to load class org.eclipse.angularjs.internal.ui.validation.HTMLAngularSourceValidator.",1431494966922
+activated,editor,org.eclipse.wst.html.ui,1.0.602.v201202091936,"org.eclipse.wst.html.core.htmlsource.source",1431494975176
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1431494977050
+activated,editor,org.eclipse.wst.html.ui,1.0.602.v201202091936,"org.eclipse.wst.html.core.htmlsource.source",1431494979277
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1431494984221
+activated,editor,org.eclipse.wst.html.ui,1.0.602.v201202091936,"org.eclipse.wst.html.core.htmlsource.source",1431494985639
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1431494987305
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1431494989232
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.redo",1431494991544
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1431494992667
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431494996848
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431495005084
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431495012202
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431495018282
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1431495039869
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1431495043717
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1431495077194
+activated,editor,org.eclipse.wst.html.ui,1.0.602.v201202091936,"org.eclipse.wst.html.core.htmlsource.source",1431495087256
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1431495095512
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1431495097761
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1431495104541
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431495146316
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431495158894
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431495196963
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431495201340
+activated,editor,org.eclipse.wst.html.ui,1.0.602.v201202091936,"org.eclipse.wst.html.core.htmlsource.source",1431495207166
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1431495217619
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431495222860
+activated,editor,org.eclipse.wst.html.ui,1.0.602.v201202091936,"org.eclipse.wst.html.core.htmlsource.source",1431495234370
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431495295908
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431495321984
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431495324131
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431495346692
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1431495374353
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431495376956
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431495394522
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1431495419209
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1431495424337
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1431495432739
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1431495435484
+error,log,,,"IStructuredDocumentRegion management failed.",1431495443627
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1431495445450
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431495447201
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431495791605
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431495802025
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1431495855877
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431495856083
+error,log,,,"error during type inferencing",1431495856440
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431495873752
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1431495917785
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431495922480
+activated,editor,org.eclipse.wst.html.ui,1.0.602.v201202091936,"org.eclipse.wst.html.core.htmlsource.source",1431495988183
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431495991850
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431496006070
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431496018932
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1431496044675
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1431496047271
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1431496077141
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431496077334
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1431496091323
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431496091537
+error,log,,,"error during type inferencing",1431496092544
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431496118979
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431496145465
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431496151469
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431496157729
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431496176815
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431496180726
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431496205777
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431496209582
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431496233980
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.text.contentAssist.proposals",1431496252940
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1431496260281
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1431496260829
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1431496260856
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1431496260884
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1431496260914
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1431496260944
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1431496260972
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1431496261002
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1431496261031
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1431496261061
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1431496261090
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1431496261121
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1431496261149
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1431496261191
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1431496261209
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1431496261248
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1431496261269
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1431496261308
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1431496261585
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1431496262136
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1431496262164
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1431496262194
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1431496262223
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1431496262372
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1431496262570
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1431496262815
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431496330062
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1431496342416
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431496346035
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1431496350209
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1431496359119
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1431496360697
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1431496371935
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1431496372367
+activated,editor,org.eclipse.wst.html.ui,1.0.602.v201202091936,"org.eclipse.wst.html.core.htmlsource.source",1431496375007
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1431496381805
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1431496383553
+error,log,,,"Error while tern hover.",1431496390590
+error,log,,,"Error while tern hover.",1431496390593
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431496393077
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431497077293
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1431497080954
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431497084677
+opened,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431497101989
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431497102025
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431497102088
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1431497103413
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1431497104572
+activated,editor,org.eclipse.wst.html.ui,1.0.602.v201202091936,"org.eclipse.wst.html.core.htmlsource.source",1431497117091
+closed,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431497117091
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431497121202
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431497139444
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431497142688
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1431497165007
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1431497211781
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431497217358
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431497263592
+activated,editor,org.eclipse.wst.html.ui,1.0.602.v201202091936,"org.eclipse.wst.html.core.htmlsource.source",1431497266113
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1431497269428
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1431497272131
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431497276837
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431497316640
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431497325053
+activated,editor,org.eclipse.wst.html.ui,1.0.602.v201202091936,"org.eclipse.wst.html.core.htmlsource.source",1431497360467
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431497369425
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431497544229
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431497547763
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431497615614
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431497664029
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1431497675055
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1431497677429
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1431497688838
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431497695098
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431497697045
+executed,command,org.eclipse.ltk.ui.refactoring,3.6.0.v20110928-1453,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1431497697052
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1431497697053
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431497709717
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431497739922
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431497742253
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431497745671
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431497755871
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431497809332
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431497819114
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1431497831776
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1431497836778
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431497838475
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431498001272
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1431498005222
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.refresh",1431498010852
+error,log,,,"Core exception while retrieving the content description",1431498011066
+error,log,,,"Core exception while retrieving the content description",1431498011067
+error,log,,,"Core exception while retrieving the content description",1431498011084
+error,log,,,"Core exception while retrieving the content description",1431498011085
+error,log,,,"Core exception while retrieving the content description",1431498011968
+error,log,,,"Core exception while retrieving the content description",1431498011971
+error,log,,,"Core exception while retrieving the content description",1431498011974
+error,log,,,"Core exception while retrieving the content description",1431498011976
+error,log,,,"Core exception while retrieving the content description",1431498011979
+error,log,,,"Core exception while retrieving the content description",1431498012006
+error,log,,,"Core exception while retrieving the content description",1431498012007
+error,log,,,"Core exception while retrieving the content description",1431498012009
+error,log,,,"Core exception while retrieving the content description",1431498012011
+error,log,,,"Core exception while retrieving the content description",1431498012013
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1431498014701
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1431498018480
+opened,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431498044995
+activated,editor,org.nodeclipse.ui,0.17.0.201409260936,"org.nodeclipse.ui.editors.NodeEditor",1431498045410
+executed,command,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.edit.text.java.open.editor",1431498045426
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1431498048062
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431498058629
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1431498060862
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431498062489
+executed,command,org.eclipse.ltk.ui.refactoring,3.6.0.v20110928-1453,"org.eclipse.ltk.ui.refactoring.commands.renameResource",1431498062496
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.rename",1431498062496
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431498073162
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1431498083036
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1431498084637
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.properties",1431498084672

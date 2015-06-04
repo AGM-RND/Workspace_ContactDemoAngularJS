@@ -1,0 +1,72 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Contacts</title>
+<base href="/">
+<link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css" />
+<link ng-href='https://bootswatch.com/cerulean/bootstrap.min.css' rel='stylesheet' type='text/css'>
+</head>
+<body style="font-family: Georgia, Serif;">
+	<div class="container">
+		<div class="row well">
+			<div class="col-sm-12">
+				<img class="img-rounded" src="images/RakutenSmall.png"/>
+				<h1 class="pull-right">
+					Search products <small>the way you want</small>
+				</h1>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-sm-6 alert-success" style="border-radius:15px">
+				<form class="form-horizontal" action="/login" method="POST">
+					<h3>Log In</h3>
+					<div class="row form-group">
+						<label for="username" class="control-label col-sm-2">Username:</label>
+						<div class="col-sm-8">
+							<input type="text" name="username" class="form-control" required />
+						</div>
+					</div>
+					<div class="row form-group">
+						<label for="password" class="control-label col-sm-2">Password:</label>
+						<div class="col-sm-8">
+							<input type="password" name="password" class="form-control"
+								required />
+						</div>
+					</div>
+					<div class="row form-group">
+						<div class="col-sm-offset-2 col-sm-10">
+							<button class="btn btn-info">Log In</button>
+						</div>
+					</div>
+				</form>
+			</div>
+
+			<div class="col-sm-6 alert-info" style="border-radius:15px; margin-left:10px; width:49%">
+				<form class="form-horizontal" action="/register" method="POST">
+					<h3>Sign Up</h3>
+					<div class="row form-group">
+						<label for="username" class="control-label col-sm-2">Username:</label>
+						<div class="col-sm-8">
+							<input type="text" name="username" class="form-control" required />
+						</div>
+					</div>
+					<div class="row form-group">
+						<label for="password" class="control-label col-sm-2">Password:</label>
+						<div class="col-sm-8">
+							<input type="password" name="password" class="form-control"
+								required />
+						</div>
+					</div>
+					<div class="row form-group">
+						<div class="col-sm-offset-2 col-sm-10">
+							<button class="btn btn-danger">Sign Up</button>
+						</div>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
