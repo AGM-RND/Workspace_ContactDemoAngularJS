@@ -2,7 +2,7 @@ angular.module("ContactsApp")
 .controller('mainController', function($scope) {
   
   // set the default bootswatch name
-  $scope.css = 'cerulean';
+  $scope.css = 'spacelab';
   $scope.cssName = 'Default';
    
   // create the list of bootswatches
@@ -13,11 +13,11 @@ angular.module("ContactsApp")
     { name: 'Lumen', url: 'lumen' },
     { name: 'Paper', url: 'paper' },
     { name: 'Simplex', url: 'simplex' },
-    { name: 'Spacelab', url: 'spacelab' },
     { name: 'Superhero', url: 'superhero' },
     { name: 'United', url: 'united' },
     { name: 'Yeti', url: 'yeti' },
-    { name: 'Default', url: 'cerulean' }
+    { name: 'Cerulean', url: 'cerulean' },
+    { name: 'Default', url: 'spacelab' },
   ];
   
   $scope.setTheme = function(bootstrap){
@@ -118,7 +118,7 @@ angular.module("ContactsApp")
 	
 	//'http://10.130.136.13:8080/ElasticSearch/search/'
 	//'http://gcvs4199:8090/ElasticSearch/search/'
-	$http.get('http://gcvs4199:8090/ElasticSearch/search/' + $routeParams.term + '/' + $routeParams.from + '/' + $routeParams.size + '/xml').success(function (data) {
+	$http.get('http://gcvs4199.private.linksynergy.com:8090/ElasticSearch/search/' + $routeParams.term + '/' + $routeParams.from + '/' + $routeParams.size + '/xml').success(function (data) {
 		var largeLoad = data.ProductResult;
 		$scope.secondsTook = largeLoad.secondsTook;
 		$scope.totalRecords = largeLoad.totalRecords;
